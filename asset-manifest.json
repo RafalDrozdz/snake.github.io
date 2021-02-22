@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/snake.github.io/static/css/main.50831400.chunk.css",
+    "main.js": "/snake.github.io/static/js/main.2ff853bb.chunk.js",
+    "main.js.map": "/snake.github.io/static/js/main.2ff853bb.chunk.js.map",
+    "runtime-main.js": "/snake.github.io/static/js/runtime-main.b1c610d3.js",
+    "runtime-main.js.map": "/snake.github.io/static/js/runtime-main.b1c610d3.js.map",
+    "static/js/2.3171ad38.chunk.js": "/snake.github.io/static/js/2.3171ad38.chunk.js",
+    "static/js/2.3171ad38.chunk.js.map": "/snake.github.io/static/js/2.3171ad38.chunk.js.map",
+    "index.html": "/snake.github.io/index.html",
+    "static/css/main.50831400.chunk.css.map": "/snake.github.io/static/css/main.50831400.chunk.css.map",
+    "static/js/2.3171ad38.chunk.js.LICENSE.txt": "/snake.github.io/static/js/2.3171ad38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1c610d3.js",
+    "static/js/2.3171ad38.chunk.js",
+    "static/css/main.50831400.chunk.css",
+    "static/js/main.2ff853bb.chunk.js"
+  ]
+}
