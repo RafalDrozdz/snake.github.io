@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.app{
+   display: flex;
+   justify-content: center; 
+   margin: 60px 0; 
+   width: 100%;
+}
+
+.box{
+    position: relative;
+    width: 98vw;
+    height: 98vw;
+    border: 2px solid #000;
+    max-width: 600px;
+    max-height: 600px;
+}
+.dot, .food{
+    position: absolute;
+    width: 4%;
+    height: 4%;
+    background-color: #000;
+    border: 1px solid #fff;
+}
+.dot{
+    z-index: 1;
+}
+.food{
+    background-color: #f00
+}
