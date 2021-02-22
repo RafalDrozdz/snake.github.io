@@ -14,3 +14,5 @@ $ cd snake.github.io-main
 $ npm install -d
 $ npm run start
 ```
+
+### Live: https://rafaldrozdz.github.io/snake.github.io/
