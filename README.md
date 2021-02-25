@@ -10,7 +10,7 @@ I build this game to better understand React hooks and TypeScript
 ### Installation
 
 ```sh
-$ cd snake.github.io-main
+$ cd snake.github.io
 $ npm install -d
 $ npm run start
 ```
